@@ -1,0 +1,95 @@
+.heading{
+	border: 2px solid blue;
+	overflow: hidden;
+}
+.slider{
+	border: 2px solid blue;
+	overflow: hidden;
+}
+.about{
+	border: 2px solid blue;
+	overflow: hidden;
+}
+.service{
+	border: 2px solid blue;
+}
+.footer{
+	border: 2px solid blue;
+	overflow: hidden;
+}
+.logo{
+	border: 2px solid blue;
+	width: 15%;
+	float: left;
+	padding: 20px;
+}
+.sign-in{
+	border: 2px solid blue;
+	width: 25%;
+	float: right;
+	padding: 10px;
+}
+.menu{
+	border: 2px solid blue;
+	width: 50%;
+	float: right;
+	padding: 8px;
+
+}
+.slider-image1{
+	width: 45%;
+	border: 2px solid blue;
+	float: left;
+	padding: 30px;
+}
+.slider-image2{
+	width: 45%;
+	border: 2px solid blue;
+	float: right;
+	padding: 30px;
+}
+.about-image{
+	border: 2px solid blue;
+	width: 45%;
+	float: left;
+	padding: 30px;
+}
+.about-content{
+	border: 2px solid blue;
+	width: 45%;
+	float: right;
+	padding: 30px;
+}
+.ser{
+	display: inline-block;
+	border: 2px solid blue;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding:50px;
+	padding-right: 120px;
+}
+.contract{
+	border: 2px solid blue;
+	width: 33%;
+	float: left;
+	padding-bottom: 50px;
+}
+.map{
+	border: 2px solid blue;
+	width: 33%;
+	float: right;
+	padding-bottom: 50px;
+
+}
+.policy{
+	border: 2px solid blue;
+	width: 33%;
+	float: right;
+	padding-bottom: 50px;
+}
+li{
+	display: inline-block;
+	border: 2px solid blue;
+	margin-right: 30px;
+	padding-right: 30px
+}
