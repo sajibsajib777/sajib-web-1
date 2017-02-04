@@ -43,14 +43,14 @@
 	padding: 30px;
 }
 .slider-image2{
-	width: 45%;
+	width: 40%;
 	border: 2px solid blue;
 	float: right;
 	padding: 30px;
 }
 .about-image{
 	border: 2px solid blue;
-	width: 45%;
+	width: 40%;
 	float: left;
 	padding: 30px;
 }
@@ -63,8 +63,8 @@
 .ser{
 	display: inline-block;
 	border: 2px solid blue;
-	margin-right: 50px;
-	margin-left: 50px;
+	margin-right: 40px;
+	margin-left: 40px;
 	padding:50px;
 	padding-right: 120px;
 }
